@@ -343,7 +343,7 @@ export default function App() {
               >
                 {[
                   { label: "Name", value: "Ahmed Shaker", icon: <User size={18} /> },
-                  { label: "Working hours", value: "+1200 Years", icon: <Calendar size={18} /> },
+                  { label: "Working hours", value: "+1200 hours", icon: <Calendar size={18} /> },
                   { label: "Location", value: "Mansoura, Egypt", icon: <MapPin size={18} /> },
                   { label: "LinkedIn", value: "/axshaker", icon: <Linkedin size={18} /> },
                 ].map((info) => (
