@@ -400,7 +400,7 @@ export default function App() {
                 bg: "from-primary/20 via-primary/5"
               },
               {
-                title: "20+ UI/UX Projects",
+                title: "2 Web + 20 UI/UX Projects",
                 desc: "Delivered creative interfaces for mobile apps, dashboards, and landing pages using Figma.",
                 icon: <Award className="text-accent" size={32} />,
                 bg: "from-accent/20 via-accent/5"
