@@ -326,10 +326,10 @@ export default function App() {
                   Turning <span className="text-transparent bg-clip-text bg-linear-to-r from-primary to-accent">imagination</span> into interactive reality.
                 </h3>
                 <p className="text-gray text-lg mb-6 leading-relaxed">
-                  Hello! I'm Ahmed, a passionate front-end developer and UI/UX designer. I'm obsessed with creating elegant, modern web experiences that blend aesthetics with deep functionality.
+                 "I'm Ahmed — a front-end developer and UI/UX designer with 2 years of hands-on experience building products that people actually enjoy using. I've had the privilege of partnering with 13 clients across different industries, turning ideas into polished digital experiences — from early wireframes to pixel-perfect production code. My work sits at the intersection of design thinking and clean engineering: every interface I ship is purposeful, accessible, and built to last — backed by 1,200+ hours of real-world client work."
                 </p>
                 <p className="text-gray text-lg leading-relaxed">
-                  My approach combines technical expertise with creative design thinking to build solutions that not only look stunning but also feel intuitive and deliver exceptional user experiences.
+                 I write clean code and obsess over design details — because the best digital products are the ones users don't have to think about
                 </p>
               </motion.div>
               
