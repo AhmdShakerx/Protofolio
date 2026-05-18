@@ -564,7 +564,7 @@ export default function App() {
               
               <div className="space-y-6">
                 <ContactDetail icon={<MapPin size={20} />} title="Location" value="Mansoura, Egypt" />
-                <ContactDetail icon={<Mail size={20} />} title="Email" value="shakor3322@gmail.com" />
+                <ContactDetail icon={<Mail size={20} />} title="Email" value="Eng_AhmedShaker@gmail.com" />
                 <ContactDetail icon={<Phone size={20} />} title="Phone" value="+20 1006734678" />
               </div>
             </motion.div>
