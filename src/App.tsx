@@ -618,8 +618,7 @@ export default function App() {
           <div className="flex gap-4">
             <SocialLink icon={<Linkedin size={20} />} href="https://www.linkedin.com/in/axshaker" />
             <SocialLink icon={<Github size={20} />} href="https://github.com/AhmdShakerx" />
-            <SocialLink icon={<Facebook size={20} />} href="https://www.facebook.com/share/1DBqCMF5Gb/" />
-            <SocialLink icon={<Instagram size={20} />} href="https://www.instagram.com/axshaker/" />
+            
           </div>
         </div>
       </footer>
