@@ -368,12 +368,12 @@ export default function App() {
               </motion.div>
 
               <motion.a
-               href="/CV.pdf"
-                download
-                initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.5, delay: 0.6 }} whileHover={{ scale: 1.05, boxShadow: "0 0 20px rgba(14, 165, 233, 0.3)" }} whileTap={{ scale: 0.95 }} className="flex items-center gap-3 px-8 py-4 bg-linear-to-r from-primary to-accent rounded-full font-bold shadow-lg shadow-primary/20 transition-all group overflow-hidden relative"
-                }}
-                whileTap={{ scale: 0.95 }}
-                className="flex items-center gap-3 px-8 py-4 bg-linear-to-r from-primary to-accent rounded-full font-bold shadow-lg shadow-primary/20 transition-all group overflow-hidden relative"
+               href="public/CV.pdf"
+               download
+               initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.5, delay: 0.6 }} whileHover={{ scale: 1.05, boxShadow: "0 0 20px rgba(14, 165, 233, 0.3)" }} whileTap={{ scale: 0.95 }} className="flex items-center gap-3 px-8 py-4 bg-linear-to-r from-primary to-accent rounded-full font-bold shadow-lg shadow-primary/20 transition-all group overflow-hidden relative"
+              }}
+              whileTap={{ scale: 0.95 }}
+              className="flex items-center gap-3 px-8 py-4 bg-linear-to-r from-primary to-accent rounded-full font-bold shadow-lg shadow-primary/20 transition-all group overflow-hidden relative"
               >
               <div className="absolute inset-0 bg-white/20 -translate-x-[150%] skew-x-[-15deg] group-hover:translate-x-[150%] transition-transform duration-700" />
   
