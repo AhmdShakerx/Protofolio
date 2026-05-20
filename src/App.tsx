@@ -676,7 +676,7 @@ export default function App () {
                 <ContactDetail
                   icon={<Mail size={20} />}
                   title='Email'
-                  value='Eng_AhmedShaker@gmail.com'
+                  value='engxahmedshaker@gmail.com'
                 />
                 <ContactDetail
                   icon={<Phone size={20} />}
